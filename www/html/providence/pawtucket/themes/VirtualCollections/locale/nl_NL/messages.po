@@ -1,0 +1,1307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CollectiveAccess Pawtucket2 Default Theme\n"
+"POT-Creation-Date: 2020-06-17 18:29+0200\n"
+"PO-Revision-Date: 2020-10-14 15:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: CollectiveAccess <info@collectiveaccess.org>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ../../views\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _t\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: About/Index.php:7 pageFormat/pageHeader.php:151
+msgid "About"
+msgstr "Over"
+
+#: Browse/browse_refine_subview_html.php:44
+msgid "Filter by"
+msgstr "Filteren op"
+
+#: Browse/browse_refine_subview_html.php:55 Browse/browse_results_html.php:271
+#: Browse/hierarchy_facet_html.php:50 Browse/list_facet_html.php:73
+#: Details/ca_collections_default_html.php:87
+#: Details/ca_collections_default_html.php:102
+#: Details/ca_collections_default_html.php:110
+#: Details/ca_entities_default_html.php:71
+#: Details/ca_entities_default_html.php:79
+#: Details/ca_occurrences_default_html.php:69
+#: Details/ca_occurrences_default_html.php:77
+#: Details/ca_places_default_html.php:69 Details/ca_places_default_html.php:77
+#: Details/list_facet_html.php:65
+#: Search/ca_objects_search_subview_cascading_html.php:135
+msgid "Loading..."
+msgstr "Laden…"
+
+#: Browse/browse_refine_subview_html.php:82
+#: Browse/browse_refine_subview_html.php:86
+msgid "and %1 more"
+msgstr "en %1 meer"
+
+#: Browse/browse_refine_subview_html.php:83 Lightbox/ajax_comments.php:42
+msgid "close"
+msgstr "sluiten"
+
+#: Browse/browse_results_html.php:77 Browse/browse_results_html.php:110
+#: Classroom/set_detail_html.php:77 Classroom/set_detail_html.php:117
+#: Lightbox/set_detail_html.php:73 Lightbox/set_detail_html.php:105
+msgid "Sort by:"
+msgstr "Sorteren op :"
+
+#: Browse/browse_results_html.php:90 Classroom/set_detail_html.php:90
+#: Lightbox/set_detail_html.php:86
+msgid "desc"
+msgstr ""
+
+#: Browse/browse_results_html.php:90 Classroom/set_detail_html.php:90
+#: Lightbox/set_detail_html.php:86
+msgid "asc"
+msgstr ""
+
+#: Browse/browse_results_html.php:97
+msgid "Result"
+msgstr "Resultaat"
+
+#: Browse/browse_results_html.php:97
+msgid "Results"
+msgstr "Resultaten"
+
+#: Browse/browse_results_html.php:97
+msgid "%1 %2 %3"
+msgstr ""
+
+#: Browse/browse_results_html.php:104
+msgid "Add all results to %1"
+msgstr ""
+
+#: Browse/browse_results_html.php:105
+msgid "Select results to add to %1"
+msgstr ""
+
+#: Browse/browse_results_html.php:119 Classroom/set_detail_html.php:139
+#: Lightbox/set_detail_html.php:127
+msgid "Sort order:"
+msgstr ""
+
+#: Browse/browse_results_html.php:120 Classroom/set_detail_html.php:140
+#: Lightbox/set_detail_html.php:128
+msgid "Ascending"
+msgstr ""
+
+#: Browse/browse_results_html.php:121 Classroom/set_detail_html.php:141
+#: Lightbox/set_detail_html.php:129
+msgid "Descending"
+msgstr ""
+
+#: Browse/browse_results_html.php:131 Lightbox/set_detail_html.php:179
+msgid "Start Over"
+msgstr ""
+
+#: Browse/browse_results_html.php:136
+msgid "Download results as:"
+msgstr ""
+
+#: Browse/browse_results_html.php:151
+msgid "Add selected results to %1"
+msgstr ""
+
+#: Browse/browse_results_html.php:193
+msgid "All"
+msgstr ""
+
+#: Browse/browse_results_html.php:211 Search/multisearch_results_html.php:38
+msgid "Did you mean one of these: %1?"
+msgstr ""
+
+#: Browse/browse_results_html.php:213 Search/multisearch_results_html.php:40
+msgid "Did you mean %1?"
+msgstr ""
+
+#: Browse/browse_results_images_html.php:168
+#: Browse/browse_results_list_html.php:165
+#: Browse/browse_results_table_html.php:331 Classroom/set_detail_html.php:306
+#: Lightbox/set_detail_html.php:289
+#: Search/ca_objects_search_subview_cascading_html.php:126
+msgid "Next %1"
+msgstr ""
+
+#: Browse/facet_hierarchy_ancestors_html.php:40
+msgid "Top"
+msgstr ""
+
+#: Browse/facet_hierarchy_level_html.php:48
+#: Browse/facet_hierarchy_level_html.php:55
+msgid "View sub-items"
+msgstr ""
+
+#: Browse/list_facet_html.php:65 Details/list_facet_html.php:58
+msgid "Loading"
+msgstr ""
+
+#: Classroom/form_set_info_html.php:43
+msgid "Response Information"
+msgstr ""
+
+#: Classroom/form_set_info_html.php:43 Lightbox/form_set_info_html.php:41
+msgid "%1 Information"
+msgstr ""
+
+#: Classroom/form_set_info_html.php:54 Lightbox/form_add_set_item_html.php:59
+#: Lightbox/form_set_info_html.php:52 Lightbox/form_user_group_html.php:47
+msgid "Name"
+msgstr "Naam"
+
+#: Classroom/form_set_info_html.php:58 Classroom/list_html.php:156
+#: Lightbox/form_add_set_item_html.php:61 Lightbox/form_set_info_html.php:56
+#: Lightbox/form_user_group_html.php:51 Lightbox/user_group_list_html.php:45
+msgid "Description"
+msgstr "Beschrijving"
+
+#: Classroom/form_set_info_html.php:62 Classroom/set_detail_html.php:381
+#: Lightbox/form_set_info_html.php:60 Lightbox/set_detail_html.php:327
+msgid "Save"
+msgstr ""
+
+#: Classroom/list_html.php:127 Classroom/list_html.php:132
+msgid "You have no %1."
+msgstr ""
+
+#: Classroom/list_html.php:129 Classroom/list_html.php:142
+#: Classroom/set_detail_html.php:173 Lightbox/set_detail_html.php:156
+#: Lightbox/set_list_html.php:50
+msgid "New %1"
+msgstr ""
+
+#: Classroom/list_html.php:146
+msgid "New Group"
+msgstr ""
+
+#: Classroom/list_html.php:150
+msgid "%1 members"
+msgstr ""
+
+#: Classroom/list_html.php:158 Lightbox/user_group_list_html.php:47
+msgid "Url to join group"
+msgstr ""
+
+#: Classroom/list_html.php:159
+msgid "Members"
+msgstr ""
+
+#: Classroom/list_html.php:167 Lightbox/user_group_list_html.php:55
+msgid "Group has no users"
+msgstr ""
+
+#: Classroom/list_html.php:189 Classroom/set_detail_html.php:418
+#: Lightbox/set_list_html.php:191
+msgid "Delete"
+msgstr ""
+
+#: Classroom/list_html.php:190 Classroom/set_detail_html.php:419
+#: Lightbox/set_list_html.php:192
+msgid "Cancel"
+msgstr ""
+
+#: Classroom/list_html.php:201 Classroom/set_detail_html.php:431
+#: Lightbox/set_list_html.php:203
+msgid "Really delete <strong><em>%1</em></strong>? This action cannot be undone."
+msgstr ""
+
+#: Classroom/set_access_html.php:40 Lightbox/set_access_html.php:39
+msgid "%1 Access"
+msgstr ""
+
+#: Classroom/set_access_html.php:49
+msgid "Groups"
+msgstr ""
+
+#: Classroom/set_access_html.php:52 Classroom/set_access_html.php:63
+#: Lightbox/set_access_html.php:51 Lightbox/set_access_html.php:64
+msgid "remove access"
+msgstr ""
+
+#: Classroom/set_access_html.php:58 Lightbox/set_access_html.php:59
+#: Lightbox/user_group_list_html.php:49
+msgid "Users"
+msgstr ""
+
+#: Classroom/set_access_html.php:65 Lightbox/set_access_html.php:66
+msgid "Owner"
+msgstr ""
+
+#: Classroom/set_detail_html.php:127 Lightbox/set_detail_html.php:115
+msgid "Refine sort by:"
+msgstr ""
+
+#: Classroom/set_detail_html.php:145 Lightbox/set_detail_html.php:133
+msgid "All %1"
+msgstr ""
+
+#: Classroom/set_detail_html.php:150 Lightbox/set_detail_html.php:138
+msgid "Edit Name/Description"
+msgstr ""
+
+#: Classroom/set_detail_html.php:154 Lightbox/form_share_set_html.php:37
+#: Lightbox/set_detail_html.php:139
+msgid "Share %1"
+msgstr ""
+
+#: Classroom/set_detail_html.php:155 Lightbox/set_detail_html.php:140
+msgid "Manage %1 Access"
+msgstr ""
+
+#: Classroom/set_detail_html.php:160 Lightbox/set_detail_html.php:144
+msgid "Start presentation"
+msgstr ""
+
+#: Classroom/set_detail_html.php:165 Lightbox/set_detail_html.php:149
+msgid "Download as:"
+msgstr ""
+
+#: Classroom/set_detail_html.php:175 Lightbox/set_detail_html.php:158
+#: Lightbox/set_list_html.php:52
+msgid "New User Group"
+msgstr ""
+
+#: Classroom/set_detail_html.php:179 Lightbox/set_detail_html.php:162
+#: Lightbox/set_list_html.php:56
+msgid "Manage Your User Groups"
+msgstr ""
+
+#: Classroom/set_detail_html.php:213
+msgid "Created by"
+msgstr ""
+
+#: Classroom/set_detail_html.php:229 Lightbox/set_detail_html.php:212
+msgid "Displaying %1 view because required data is not available to generate a %1 view"
+msgstr ""
+
+#: Classroom/set_detail_html.php:311 Lightbox/set_detail_html.php:294
+msgid "Click the %1 near items throughout the site to add items to this %2."
+msgstr ""
+
+#: Classroom/set_detail_html.php:351
+msgid "Respond"
+msgstr ""
+
+#: Classroom/set_detail_html.php:357
+msgid "%1 Response%2"
+msgstr ""
+
+#: Classroom/set_detail_html.php:373
+msgid "Comments"
+msgstr ""
+
+#: Classroom/set_detail_html.php:377 Lightbox/set_detail_html.php:322
+msgid "add your comment"
+msgstr ""
+
+#: Collections/collection_hierarchy_html.php:111
+msgid "Clickleft"
+msgstr ""
+
+#: Collections/index_html.php:49
+msgid "No collections available"
+msgstr ""
+
+#: Contact/form_html.php:7 Contact/success_html.php:1
+#: pageFormat/pageHeader.php:152
+msgid "Contact"
+msgstr "Contact"
+
+#: Contact/form_html.php:20
+msgid "Item Inquiry"
+msgstr ""
+
+#: Contact/success_html.php:2
+msgid "Your message has been sent."
+msgstr ""
+
+#: Contribute/spam_check_html.php:40
+msgid "Simple Math Quiz (to prevent SPAMbots)"
+msgstr ""
+
+#: Contribute/spam_check_html.php:55
+msgid "Please correctly answer the security question."
+msgstr ""
+
+#: Contribute/terms_and_conditions_check_html.php:38
+msgid "Terms and conditions"
+msgstr ""
+
+#: Contribute/terms_and_conditions_check_html.php:42
+msgid "I agree to the Terms and Conditions set out herein"
+msgstr ""
+
+#: Contribute/terms_and_conditions_check_html.php:52
+msgid "You must agree to the terms and conditions before proceeding."
+msgstr ""
+
+#: Details/annotations_html.php:35
+msgid "Featured clips (%1)"
+msgstr ""
+
+#: Details/form_comments_html.php:5
+msgid "Add your tags and comment"
+msgstr ""
+
+#: Details/form_comments_html.php:13
+msgid "Tags"
+msgstr ""
+
+#: Details/form_comments_html.php:13
+msgid "tags separated by commas"
+msgstr ""
+
+#: Details/form_comments_html.php:14
+msgid "Comment"
+msgstr ""
+
+#: Details/form_share_html.php:23
+msgid "Share this item"
+msgstr ""
+
+#: Details/form_share_html.php:34
+msgid "To e-mail address"
+msgstr ""
+
+#: Details/form_share_html.php:34
+msgid "Enter multiple addresses separated by commas"
+msgstr ""
+
+#: Details/form_share_html.php:38
+msgid "Your name"
+msgstr ""
+
+#: Details/form_share_html.php:42
+msgid "Your email address"
+msgstr ""
+
+#: Details/form_share_html.php:52 LoginReg/form_register_html.php:113
+msgid "Security Question"
+msgstr "Veiligheidsvraag"
+
+#: Details/form_share_html.php:68
+msgid "Subject"
+msgstr ""
+
+#: Details/form_share_html.php:72
+msgid "Message"
+msgstr "Boodschap"
+
+#: Details/viewer_help_html.php:3
+msgid "How to use the image viewer"
+msgstr ""
+
+#: Details/viewer_help_html.php:6
+msgid ""
+"Click and drag with the mouse to pan across the image. You can use the mousewheel or trackpad to zoom in or out of the image. \n"
+"\tThe <code>+</code> and <code>-</code> buttons and zoom slider bar at the top of viewer may also be used. The viewer displays the image at full resolution, loading \n"
+"\tdetail as you zoom. The more you zoom the more detail will be visible.\n"
+"\t"
+msgstr ""
+
+#: Details/viewer_help_html.php:12
+msgid ""
+"You may add text annotations to the image. Each annotation is associated with a point, rectangular or polygon area on the image. To create an annotation\n"
+"\tselect the point (line icon), rectangle or polygon tool from the tool bar, then click on the location you wish to annotate. "
+msgstr ""
+
+#: Details/viewer_help_html.php:16
+msgid "For point annotations a line will appear connecting the location with a text box. The location will also be highlighted with a red translucent circle. You may drag both the point of the line and the text box to adjust position."
+msgstr ""
+
+#: Details/viewer_help_html.php:19
+msgid "For rectangular annotations a rectangle will appear with a text box below and adjacent. Drag on the edges at the highlighted locations to resize the rectangle. Drag the rectangle on its interior to reposition it."
+msgstr ""
+
+#: Details/viewer_help_html.php:22
+msgid ""
+"For polygon annotations click \n"
+"\trepeatedly on the image to establish line segments at various locations for the polygon shape. The shape may have any number of points, and consequently sides. To complete the shape double-click\n"
+"\twhen placing the final point or click on the pan, rectangle or point tools. You can adjust the shape by clicking and dragging on any point. To move the shape, click and drag on the outline,\n"
+"\taway from any point. To remove a point click on it while holding down the option key. To add a point click on the outline, away from any point, while holding down the option key.\n"
+"\t"
+msgstr ""
+
+#: Details/viewer_help_html.php:29
+msgid "You may also drag the text box into position. Click on the text box to add text. All changes to annotations are saved automatically as you work."
+msgstr ""
+
+#: Details/viewer_help_html.php:32
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: Details/viewer_help_html.php:35
+msgid "Single-key shortcuts are available for common actions. Pressing the key is equivalent to the corresponding mouse action."
+msgstr ""
+
+#: Details/viewer_help_html.php:38
+msgid "%1 to activate image panning"
+msgstr ""
+
+#: Details/viewer_help_html.php:39
+msgid "%1 to select the rectangle annotation tool"
+msgstr ""
+
+#: Details/viewer_help_html.php:40
+msgid "%1 to select the point annotation tool"
+msgstr ""
+
+#: Details/viewer_help_html.php:41
+msgid "%1 to select the polygon annotation tool"
+msgstr ""
+
+#: Details/viewer_help_html.php:42
+msgid "%1 to delete the selected annotation"
+msgstr ""
+
+#: Details/viewer_help_html.php:43
+msgid "%1 to toggle visibility of the image overview"
+msgstr ""
+
+#: Details/viewer_help_html.php:44
+msgid "%1 to return the image to the centered, zoomed out \"home\" position"
+msgstr ""
+
+#: Details/viewer_help_html.php:45
+msgid "%1 to toggle visibility of viewer controls"
+msgstr ""
+
+#: Details/viewer_help_html.php:46
+msgid "%1 to hide controls and labels"
+msgstr ""
+
+#: Details/viewer_help_html.php:47
+msgid "%1 or %2 to zoom in in small increments"
+msgstr ""
+
+#: Details/viewer_help_html.php:48
+msgid "%1 or %2 to zoom out in small increments"
+msgstr ""
+
+#: Details/viewer_help_html.php:49
+msgid "%1, %2, %3 or %4 to pan the image in small increments"
+msgstr ""
+
+#: Gallery/detail_html.php:62
+msgid "more"
+msgstr ""
+
+#: Gallery/index_html.php:37 Gallery/set_info_html.php:12
+msgid "item"
+msgstr ""
+
+#: Gallery/index_html.php:37 Gallery/set_info_html.php:12
+msgid "items"
+msgstr ""
+
+#: Gallery/set_info_html.php:15
+msgid "view %1"
+msgstr ""
+
+#: Gallery/set_item_info_html.php:13
+msgid "VIEW RECORD"
+msgstr ""
+
+#: Lightbox/ajax_comments.php:44
+msgid "comment"
+msgstr ""
+
+#: Lightbox/ajax_comments.php:44
+msgid "comments"
+msgstr ""
+
+#: Lightbox/exportTemplates/ca_objects_sets_pdf_html.php:53
+msgid "%1 item"
+msgstr ""
+
+#: Lightbox/exportTemplates/ca_objects_sets_pdf_html.php:53
+msgid "%1 items"
+msgstr ""
+
+#: Lightbox/form_add_set_item_html.php:39
+msgid "Add item to %1"
+msgstr ""
+
+#: Lightbox/form_add_set_item_html.php:50
+msgid "Select a %1"
+msgstr ""
+
+#: Lightbox/form_add_set_item_html.php:57
+msgid "OR<br/>Create a New %1"
+msgstr ""
+
+#: Lightbox/form_add_set_item_html.php:59
+msgid "Your %1"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:52
+msgid "Select a group"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:53
+msgid "Select a user group"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:63
+msgid "OR enter a user"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:63
+msgid "Enter a user"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:63
+msgid "email address or multiple addresses separated by comma"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:68
+msgid "Access"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:69
+msgid "Can read"
+msgstr ""
+
+#: Lightbox/form_share_set_html.php:70
+msgid "Can edit"
+msgstr ""
+
+#: Lightbox/present_html.php:64
+msgid "Back to %1"
+msgstr ""
+
+#: Lightbox/set_access_html.php:48
+msgid "User Groups"
+msgstr ""
+
+#: Lightbox/set_access_html.php:51 Lightbox/set_access_html.php:64
+msgid "change access"
+msgstr ""
+
+#: Lightbox/set_access_html.php:52 Lightbox/set_access_html.php:66
+msgid "write access"
+msgstr ""
+
+#: Lightbox/set_access_html.php:52 Lightbox/set_access_html.php:66
+msgid "read access"
+msgstr ""
+
+#: Lightbox/set_access_html.php:53 Lightbox/set_access_html.php:67
+msgid "Change to read access"
+msgstr ""
+
+#: Lightbox/set_access_html.php:53 Lightbox/set_access_html.php:67
+msgid "Change to write access"
+msgstr ""
+
+#: Lightbox/set_comment_html.php:37
+msgid "Remove comment"
+msgstr ""
+
+#: Lightbox/set_detail_html.php:296
+msgid "There are no items in this %1"
+msgstr ""
+
+#: Lightbox/set_detail_html.php:311
+msgid "You may not edit this set, you have read only access."
+msgstr ""
+
+#: Lightbox/set_detail_item_html.php:59
+msgid "View Item Detail"
+msgstr ""
+
+#: Lightbox/set_detail_item_html.php:62
+msgid "Enlarge Image"
+msgstr ""
+
+#: Lightbox/set_list_html.php:98
+msgid "Activity stream"
+msgstr ""
+
+#: Lightbox/set_list_html.php:110
+msgid "added an item to %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:114
+msgid "changed an item in %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:118
+msgid "removed and item from %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:128
+msgid "shared %1 with %2"
+msgstr ""
+
+#: Lightbox/set_list_html.php:132
+msgid "changed how they share %1 with %2"
+msgstr ""
+
+#: Lightbox/set_list_html.php:136
+msgid "unshared %1 with %2"
+msgstr ""
+
+#: Lightbox/set_list_html.php:144
+msgid "commented on %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:146
+msgid "commented on an item in %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:154
+msgid "made %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:158
+msgid "edited %1"
+msgstr ""
+
+#: Lightbox/set_list_html.php:162
+msgid "deleted %1"
+msgstr ""
+
+#: Lightbox/set_list_item_placeholder_html.php:34
+msgid "Create your first %1"
+msgstr ""
+
+#: Lightbox/user_group_list_html.php:36
+msgid "Your User Groups"
+msgstr ""
+
+#: Lightbox/user_group_list_html.php:61
+msgid "You have made no user groups"
+msgstr ""
+
+#: LoginReg/form_login_html.php:37 pageFormat/pageHeader.php:47
+msgid "Login"
+msgstr "Log in"
+
+#: LoginReg/form_login_html.php:46
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: LoginReg/form_login_html.php:52
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: LoginReg/form_login_html.php:69 LoginReg/form_login_html.php:78
+msgid "Click here to register"
+msgstr "Klik hier om te registreren"
+
+#: LoginReg/form_login_html.php:74 LoginReg/form_login_html.php:80
+msgid "Forgot your password?"
+msgstr "Uw wachtwoord vergeten?"
+
+#: LoginReg/form_profile_html.php:42
+msgid "Profile"
+msgstr ""
+
+#: LoginReg/form_profile_html.php:74
+msgid "Reset Password"
+msgstr ""
+
+#: LoginReg/form_profile_html.php:75
+msgid "Only enter if you would like to change your current password"
+msgstr ""
+
+#: LoginReg/form_profile_html.php:78 LoginReg/form_register_html.php:133
+msgid "Re-Type password"
+msgstr "Geef nogmaals het wachtwoord"
+
+#: LoginReg/form_register_html.php:69 LoginReg/form_register_html.php:75
+#: pageFormat/pageHeader.php:48
+msgid "Register"
+msgstr "Registreren"
+
+#: LoginReg/form_reset_html.php:8
+msgid "Reset Your Password"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:17
+msgid "Instructions have been sent to the e-mail address you provided."
+msgstr ""
+
+#: LoginReg/form_reset_html.php:20
+msgid "You should receive the instructions within the hour. If you do not, contact us for assistance at "
+msgstr ""
+
+#: LoginReg/form_reset_html.php:29
+msgid "Your password has been reset!"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:31
+msgid "You may now"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:31
+msgid "login"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:40
+msgid "Please confirm you have copied the provided link properly.  If you continue to have difficulty, contact us for assistance,"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:48
+msgid "Please enter your new password."
+msgstr ""
+
+#: LoginReg/form_reset_html.php:53
+msgid "New password"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:59
+msgid "Confirm new password"
+msgstr ""
+
+#: LoginReg/form_reset_html.php:78
+msgid "To reset your password enter the e-mail address you used to register below. A message will be sent to the address with instructions on how to reset your password."
+msgstr ""
+
+#: LoginReg/form_reset_html.php:81
+msgid "E-mail"
+msgstr ""
+
+#: Search/ca_collections_search_subview_html.php:55
+#: Search/ca_collections_search_subview_list_html.php:51
+#: Search/ca_entities_search_subview_html.php:49
+#: Search/ca_objects_search_subview_cascading_html.php:57
+#: Search/ca_objects_search_subview_html.php:55
+#: Search/ca_occurrences_search_subview_html.php:49
+#: Search/ca_places_search_subview_html.php:49
+msgid "Full results"
+msgstr ""
+
+#: Search/ca_collections_search_subview_html.php:59
+#: Search/ca_collections_search_subview_list_html.php:55
+#: Search/ca_entities_search_subview_html.php:53
+#: Search/ca_objects_search_subview_cascading_html.php:62
+#: Search/ca_objects_search_subview_html.php:60
+#: Search/ca_occurrences_search_subview_html.php:53
+#: Search/ca_places_search_subview_html.php:53
+msgid "sort by:"
+msgstr ""
+
+#: Search/multisearch_results_html.php:19
+msgid "Search results for %1"
+msgstr ""
+
+#: Search/multisearch_results_html.php:33
+msgid "Your search for %1 returned no results"
+msgstr ""
+
+#: bundles/ca_search_form_attributes.php:50
+#: bundles/ca_simple_form_attributes.php:50
+msgid "Locale "
+msgstr ""
+
+#: bundles/download_file_binary.php:50
+msgid "File for download does not exist"
+msgstr ""
+
+#: bundles/representation_viewer_html.php:47
+msgid "Previous"
+msgstr ""
+
+#: mediaViewers/MiradorManifest.php:42
+msgid "BLANK"
+msgstr ""
+
+#: mediaViewers/UniversalViewerManifest.php:114
+msgid "Search within this manifest"
+msgstr ""
+
+#: mediaViewers/UniversalViewerManifest.php:118
+msgid "Get suggested words in this manifest"
+msgstr ""
+
+#: pageFormat/browseMenu.php:38 pageFormat/browseMenu.php:50
+#: pageFormat/browseMenu.php:59
+msgid "Browse"
+msgstr "Bladeren"
+
+#: pageFormat/browseMenuFacets.php:36
+msgid "Browse by"
+msgstr "Blader door"
+
+#: pageFormat/browseMenuFacets.php:49
+msgid "Filter facet"
+msgstr ""
+
+#: pageFormat/browseMenuFacets.php:53
+msgid "Browse all &nbsp;<span class=\"glyphicon glyphicon-arrow-right\"></span>"
+msgstr "Blader door alle &nbsp;<span class=\"glyphicon glyphicon-arrow-right\"></span>"
+
+#: pageFormat/browseMenuFacets.php:59
+msgid "No facets available"
+msgstr ""
+
+#: pageFormat/pageHeader.php:44
+msgid "User Profile"
+msgstr ""
+
+#: pageFormat/pageHeader.php:45
+msgid "Logout"
+msgstr ""
+
+#: pageFormat/pageHeader.php:148
+msgid "Advanced Search"
+msgstr "Geavanceerd zoeken"
+
+#: pageFormat/pageHeader.php:149
+msgid "Gallery"
+msgstr ""
+
+#: pageFormat/pageHeader.php:150
+msgid "Collections"
+msgstr "Collecties"
+
+#: system/configuration_error_install_html.php:36
+msgid ""
+"<div class='error'>An error in your system configuration has been detected</div>\n"
+"\t    General installation instructions can be found\n"
+"\t    <a href='http://wiki.collectiveaccess.org/index.php?title=Installation_(Pawtucket)' target='_blank'>here</a>.\n"
+"\t    For more specific hints on the existing issues please have a look at the messages below."
+msgstr ""
+
+msgid "Collection"
+msgstr "Collectie"
+
+msgid "Keyword"
+msgstr "Zoekwoord"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Phylum"
+msgstr "Stam"
+
+msgid "Phyla"
+msgstr "Stammen"
+
+msgid "Class"
+msgstr "Klasse"
+
+msgid "Classes"
+msgstr "Klassen"
+
+msgid "Order"
+msgstr "Orde"
+
+msgid "Orders"
+msgstr "Orden"
+
+msgid "Family"
+msgstr "Familie"
+
+msgid "Families"
+msgstr "Families"
+
+msgid "Genus"
+msgstr "Geslacht"
+
+msgid "Species"
+msgstr "Soort"
+
+msgid "Subspecies"
+msgstr "Ondersoort"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Types"
+msgstr "Typen"
+
+msgid "Sex"
+msgstr "Seks"
+
+msgid "Life stage"
+msgstr "Levensfase"
+
+msgid "Media type"
+msgstr "Media type"
+
+msgid "Date of collect range <i>(e.g. 1970-1979)</i>"
+msgstr "Datumafhaling <i> (bijv.1970-1979)</i>"
+
+msgid "Country of collect"
+msgstr "Land van collectie"
+
+msgid "Objects Advanced Search"
+msgstr "Geavanceerd zoeken naar objecten"
+
+msgid "Enter your search terms in the fields below."
+msgstr "Voer uw zoektermen in de volgende velden in."
+
+msgid "Helpful Links"
+msgstr "Interessante links"
+
+msgid "Include some helpful info for your users here."
+msgstr "Voeg hier interessante informatie toe voor uw gebruikers."
+
+msgid "Click to the left to see its contents."
+msgstr "Klik links om de inhoud te zien."
+
+msgid "Main themes"
+msgstr "Hoofdthema's"
+
+msgid "Collections of the Royal Museum for Central Africa divided into main themes."
+msgstr "Collecties van het Koninklijk Museum voor Midden-Afrika onderverdeeld in hoofdthema's."
+
+msgid "All themes"
+msgstr "Alle thema's"
+
+msgid "people"
+msgstr "mensen"
+
+msgid "object"
+msgstr "object"
+
+msgid "Objects"
+msgstr "Objecten"
+
+msgid "People/Orgs"
+msgstr "Mensen/Org."
+
+msgid "Has media"
+msgstr "Met media"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "General information"
+msgstr "Algemene informatie"
+
+msgid "Related person"
+msgstr "Gerelateerde persoon"
+
+msgid "Related people"
+msgstr "Gerelateerde mensen"
+
+msgid "Amount"
+msgstr "Aantal"
+
+msgid "Sampling"
+msgstr "Verzameling"
+
+msgid "Sampling date"
+msgstr "Datum van verzameling"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Box"
+msgstr "Doos"
+
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+msgid "Location details"
+msgstr "Locatiegegevens"
+
+msgid "Coordinates"
+msgstr "Coördinaten"
+
+msgid "Storage"
+msgstr "Opslagruimte"
+
+msgid "Storage spaces"
+msgstr "Opslagruimten"
+
+msgid "Related place"
+msgstr "Gerelateerde plaats"
+
+msgid "Related places"
+msgstr "Gerelateerde plaatsen"
+
+msgid "Related Term"
+msgstr "Gerelateerde term"
+
+msgid "Related Terms"
+msgstr "Gerelateerde termen"
+
+msgid "Object details"
+msgstr "Objectgegevens"
+
+msgid "Object type"
+msgstr "Object type"
+
+msgid "Object types"
+msgstr "Object typen"
+
+msgid "Age"
+msgstr "Ouderdom"
+
+msgid "years"
+msgstr "jaren"
+
+msgid "Materials"
+msgstr "Materialen"
+
+msgid "Ethnic group"
+msgstr "Etnische groep"
+
+msgid "Ethnic groups"
+msgstr "Etnische groepen"
+
+msgid "Instrument family"
+msgstr "Instrumentenfamilie"
+
+msgid "Origin"
+msgstr "Herkomst"
+
+msgid "Place"
+msgstr "Plaats"
+
+msgid "Copyright (c) - Royal Museum for Central Africa - 2020<br>"
+msgstr "Copyright (c) - Koninklijk museum voor Midden-Afrika - 2020 <br>"
+
+msgid "All rights reserved. None of the materials provided on this web site (whether they are images or text) may be used, reproduced or"
+msgstr "Alle rechten voorbehouden. Geen van de documenten op deze website (afbeeldingen of tekst) mag worden gebruikt, gereproduceerd of"
+
+msgid "<br>transmitted, in whole or in part, in any form, without permission in writing from the Royal Museum for Central Africa (publisher).<br>"
+msgstr "<br>geheel of gedeeltelijk overgedragen in welke vorm dan ook, zonder schriftelijke toestemming van het Koninklijk Museum voor Midden-Afrika (uitgever). <br>"
+
+msgid "Show/Hide Collection Browser"
+msgstr "Collectiebrowser tonen / verbergen"
+
+msgid "Browse all"
+msgstr "Blader door alle"
+
+msgid "Latest news!"
+msgstr "Laatste nieuws!"
+
+msgid "Welcome to Virtual collections!<BR><BR><BR>You can browse through our digital collections and find detailed pictures, 3D models, sounds and videos of our collection items."
+msgstr "Welkom bij Virtual collections!<BR><BR><BR>U kunt door onze digitale collecties bladeren en gedetailleerde foto's, 3D-modellen, geluiden en video's van onze collectie-items vinden."
+
+msgid "How to digitize natural science collections?"
+msgstr "Hoe natuurwetenschappelijke collecties digitaliseren?"
+
+msgid "Researchers from the Royal Belgian Institute of Natural Sciences and the Royal Museum for Central Africa have created a manual for the digitization of natural science collections. And it can be done literally in fifty different ways, with fifty more nuances. A guide."
+msgstr "Onderzoekers van het Koninklijk Belgisch Instituut voor Natuurwetenschappen en het Koninklijk Museum voor Midden-Afrika hebben een handleiding opgesteld voor de digitalisering van natuurwetenschappelijke collecties. En het kan letterlijk op vijftig verschillende manieren, met nog vijftig nuances. Een gids."
+
+msgid "By digitizing museum pieces in 2D and / or 3D and publishing them online, they are made accessible to researchers around the world. Thanks to the high-resolution images, specimens no longer have to leave the museum's deposit with its ideal conservation conditions. In addition, they are not likely to be damaged by handling and transport."
+msgstr "Door museum objecten in 2D en / of 3D te digitaliseren en online te publiceren, worden ze toegankelijk gemaakt voor onderzoekers over de hele wereld. Dankzij de afbeeldingen in hoge resolutie hoeven exemplaren niet langer het depot van het museum te verlaten met zijn ideale conserveringsomstandigheden. Bovendien zullen ze waarschijnlijk niet worden beschadigd door behandeling en transport."
+
+msgid "More"
+msgstr "Meer"
+
+msgid "en"
+msgstr "nl"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Contributor"
+msgstr "Bijdrager"
+
+msgid "Collector"
+msgstr "Verzamelaar"
+
+msgid "Identifier"
+msgstr "Identifier"
+
+msgid "Help"
+msgstr "Hulp"
+
+msgid "Comments and Tags"
+msgstr "Commentaren en tags"
+
+msgid "Download as PDF"
+msgstr "Downloaden als PDF"
+
+msgid "Part of"
+msgstr "Deel van"
+
+msgid "Theme"
+msgstr "Thema"
+
+msgid "Themes"
+msgstr "Thema's"
+
+msgid "Zoology"
+msgstr "Zoölogie"
+
+msgid "Anthropology"
+msgstr "Antropologie"
+
+msgid "Mineralogy"
+msgstr "Mineralogie"
+
+msgid "Paleobiology"
+msgstr "Paleobiologie"
+
+msgid "Archives"
+msgstr "Archieven"
+
+msgid "Botany"
+msgstr "Plantkunde"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Boxes"
+msgstr "Dozen"
+
+msgid "This form allows you to carry out an advanced search within our already inventoried collections."
+msgstr "Met dit formulier kunt u uitgebreid zoeken binnen onze reeds geïnventariseerde collecties."
+
+msgid "You can search on multiple fields simultaneously. Furthermore, for the title, keywords and dates, it is possible to carry out a search on the basis of incomplete terms using an asterisk (*)."
+msgstr "U kunt tegelijkertijd op meerdere velden zoeken. Verder is het voor de titel, trefwoorden, taxonomische velden en datums mogelijk om op basis van onvolledige termen te zoeken met een asterisk (*)."
+
+msgid "Example: 'coal' will allow you to retrieve entries containing the term 'coal', 'coalfield', 'coalbox', etc."
+msgstr "Voorbeeld: met 'steen' kunt u vermeldingen ophalen met de term 'steen', 'steenkool', 'steeweg', enz."
+
+msgid "Fields are displayed according to the chosen collection. If you want to see all fields, don't choose a collection."
+msgstr "Velden worden weergegeven volgens de gekozen collectie. Als je alle velden wilt zien, kies dan geen collectie."
+
+msgid "On the results page, you can further refine your search using different filters."
+msgstr "Op de resultatenpagina kunt u uw zoekopdracht verder verfijnen met verschillende filters."
+
+msgid "Description of the different fields"
+msgstr "Beschrijving van de verschillende velden"
+
+msgid "<B>Theme</B>: research based on the top-level collection.<BR><B>Identifier</B>: if you know the item's identifier.<BR><B>Keyword</B>: General field where you can enter a term to be searched everywhere.<BR><B>Title</B>: search in the words of the document title. You can write multiple title terms in any order; however, the search engine only considers whole words (no asterisk (*)).<BR><B>Taxonomic fields</B> : Enter name of the taxon(asterisk (*) allowed)<BR><B>Type</B>: Choose one of the taxonomic types in the list.<BR><B>Sex</B>: Choose one value in the list.<BR><B>Life stage</B>: Enter a value.<BR><B>Object type, Age, Materials, Ethnic group, Instrument family</B>: Enter a value (an integer for age).<BR><B>UUID</B>: if you know the UUID.<BR><B>Media type</B> : Choose one of the media types.<BR><B>Boxes</B> : Check Boxes if you want to limit your search to complete boxes<BR><B>Date of collect</B>: research based on a year or a range of years. Examples: '1974' (all documents dating from 1974), '1974-1979' (all documents in this range of years), '197*' (all documents between 1970 and 1979), '19**' (all documents between 1900 and 1999).<BR><B>Country of collect </B>: Enter name of the country (name may depend on the language)."
+msgstr "<B>Collectie</B>: zoek gebaseerd op hoogste niveau van de collectie. <BR><B> Code</B>: als u de code van het item kent. <BR><B> Trefwoord</B>: algemeen veld waar u een term kunt invoeren om overal te zoeken. <BR><B> Titel</B>: zoek in de woorden van de documenttitel. U kunt in elke volgorde meerdere titeltermen schrijven; maar de zoekmachine houdt echter alleen rekening met hele woorden (geen asterisk (*)). Maar u kunt ook in plaats daarvan het begin van slechts één woord met een asterisk gebruiken. <BR><B> Taxonomische velden</B>: voer de naam van het taxon in (asterisk (*) toegestaan) <BR><B> Type</B>: kies een van de taxonomische typen in de lijst. <BR><B> Seks</B>: kies één waarde in de lijst. <BR><B> Levensfase </B>: voer een waarde in. <BR> <B> Objecttype, leeftijd, materialen, etnische groep, instrumentfamilie </B>: voer een waarde in (een geheel getal voor leeftijd). <BR><B> UUID</B>: als u de UUID kent. <BR><B>Media type</B>: kies een van de opties<BR><B>Dozen</B>: Vink dozen aan als u uw zoekopdracht wilt beperken tot volledige dozen<BR><B> Verzameldatum</B>: zoek op basis van een jaar of een reeks van jaren. Voorbeelden: '1974' (alle documenten uit 1974), '1974-1979' (alle documenten in deze reeks van jaren), '197*' (alle documenten tussen 1970 en 1979), '19**'(alle documenten tussen 1900 en 1999). <BR><B> Land van verzameling</B>: Voer de naam van het land in (naam kan van de taal afhangen)."
+
+msgid "About the Royal Museum for Central Africa"
+msgstr "Over het Koninklijk Museum voor Midden-Afrika"
+
+msgid "The Royal Museum for Central Africa must aspire to be a world centre of research and knowledge dissemination on past and present societies and natural environments of Africa, and in particular Central Africa, to foster – among the public at large and the scientific community – understanding of and interest in this area and, through partnerships, to contribute substantially to its sustainable development. Thus the core endeavours of this Africa-oriented institution consist of acquiring and managing collections, conducting scientific research, implementing the results of this research, disseminating knowledge, and mounting selected exhibitions of its collections."
+msgstr "Het Koninklijk Museum voor Midden-Afrika moet ernaar streven een wereldcentrum te zijn voor onderzoek en kennisverspreiding over vroegere en huidige samenlevingen en natuurlijke omgevingen in Afrika, en in het bijzonder Centraal-Afrika, om - bij het grote publiek en de wetenschappelijke gemeenschap - begrip van en interesse in dit gebied en, door middel van partnerschappen, substantieel bij te dragen aan de duurzame ontwikkeling ervan. De kernactiviteiten van deze op Afrika georiënteerde instelling bestaan dus uit het verwerven en beheren van collecties, het uitvoeren van wetenschappelijk onderzoek, het implementeren van de resultaten van dit onderzoek, het verspreiden van kennis en het organiseren van geselecteerde tentoonstellingen van zijn collecties."
+
+msgid "The AfricaMuseum is a centre for knowledge and resources on Africa, in particular Central Africa, in an historical, contemporary, and global context. The museum exhibits unique collections. It is a place of memory on the colonial past and strives to be a dynamic platform for exchanges and dialogues between cultures and generations."
+msgstr "Het AfricaMuseum is een centrum voor kennis en middelen over Afrika, in het bijzonder Centraal-Afrika, in een historische, hedendaagse en mondiale context. Het museum vertoont unieke collecties. Het is een plaats van herinnering aan het koloniale verleden en streeft ernaar een dynamisch platform te zijn voor uitwisselingen en dialogen tussen culturen en generaties."
+
+msgid "Request for medias"
+msgstr "Verzoek om media"
+
+msgid "For any request for a high resolution photo or other media, please use the contact form below or contact the curator concerned directly (<a href='https://www.africamuseum.be/en/research/collections_libraries' target='_blank'>Collections</a>)."
+msgstr "Gebruik voor elk verzoek om een ​​hoge resolutie foto of andere media het onderstaande contactformulier of neem rechtstreeks contact op met de betrokken curator (<a href='https://www.africamuseum.be/nl/research/collections_libraries' target='_blank'>Collecties</a>)"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "Postal code"
+msgstr "Postcode"
+
+msgid "First name"
+msgstr "Voornaam"
+
+msgid "Last name"
+msgstr "Achternaam"
+
+msgid "Organization"
+msgstr "Organisatie / bedrijf"
+
+msgid "Address 1"
+msgstr "Adres 1"
+
+msgid "Address 2"
+msgstr "Adres 2"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "State/province"
+msgstr "Staat / provincie"
+
+msgid "Belgian company registration number"
+msgstr "Bedrijf nummer"
+
+msgid "A - Welcome Pavilion"
+msgstr "A - Ontvangstpaviljoen"
+
+msgid "B - Museum Building"
+msgstr "B - Museumgebouw"
+
+msgid "C - Director's Pavilion"
+msgstr "C - Paviljoen van de directie"
+
+msgid "D - Stanley Pavilion"
+msgstr "D - Paviljoen Stanley"
+
+msgid "E - CAPA Building"
+msgstr "E - CAPA gebouw"
+
+msgid "F - Finances Building"
+msgstr "F - Financiën gebouw"
+
+msgid "G - Africa Palace (former Colonial Palace)"
+msgstr "G - Africa Paleis (voorheen Kolonies paleis)"
+
+msgid "Email address"
+msgstr "E-mailadres"
+
+msgid "Fields with a * are mandatory."
+msgstr "Velden met een * zijn verplicht."
+
+msgid "Your data and privacy are important to us, and we are committed to ensuring its absolute protection. As such, information we collect with this form is used in accordance with the guidelines set out by the GDPR."
+msgstr "Uw gegevens en privacy zijn belangrijk voor ons en we doen er alles aan om ervoor te zorgen dat deze absoluut worden beschermd. Daarom wordt de informatie die we met dit formulier verzamelen, gebruikt in overeenstemming met de richtlijnen van de AVG."
+
+msgid "Send"
+msgstr "Sturen"
+
+# names of facets without uppercase in first letter
+msgid "theme"
+msgstr "thema"
+
+msgid "person"
+msgstr "persoon"
+
+msgid "collection"
+msgstr "collectie"
+
+msgid "type"
+msgstr "type"
+
+msgid "phylum"
+msgstr "stam"
+
+msgid "class"
+msgstr "klasse"
+
+msgid "order"
+msgstr "orde"
+
+msgid "family"
+msgstr "familie"
+
+msgid "genus"
+msgstr "geslacht"
+
+msgid "object type"
+msgstr "object type"
+
+msgid "age"
+msgstr "ouderdom"
+
+msgid "ethnic group"
+msgstr "etnische groep"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Prev"
+msgstr "Vorige"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Page in construction"
+msgstr "Pagina in constructie"
